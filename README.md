@@ -1,19 +1,24 @@
 # Stock-Trading-Android-App
 
-#Reference-
-	Android Stock Trading App (Android OS, JAVA,Volley,Glide,SectionedRecyclerAdapter,Grid View,Search widget,Webview,Progress Bar)
+#Reference
+-----------
+Android Stock Trading App (Android OS, JAVA,Volley,Glide,SectionedRecyclerAdapter,Grid View,Search widget,Webview,Progress Bar)
+---------------------------
 o	Implemented features for stock trading app with splash screen, home screen with portfolio displaying net worth and favorites supporting swipe to delete features with GCP hosted node.js backend JSON data fetched via Tiingo API using volley HTTP library
 o	Enhanced to support autocomplete stock symbol search, detailed stock info screen with the associated latest stock news integrated with twitter content sharing and stock buy and sell function with real time net worth and latest price reporting user-friendly functionalities.
 o	Incorporates usage of shared preferences to store and communicate data between home and details screen
 o	Developed and tested using SDK API 29 in native emulator
 
+Description
+------------
 This is an Android application, which allows users to search for different
 stock symbols/tickers and look at the detailed information about them. Additionally, the users can
 trade with virtual money and create a portfolio. Users can also favorite stock symbols to track their
 stock prices. The App contains 2 screens: Home screen and the Detailed Stock Information
 screen. However, the App has multiple features on each of these screens.
 
-#Implementation
+Implementation Details
+-----------------------
 
  App Icon and Splash Screen
  ----------------------------
